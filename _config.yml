@@ -13,7 +13,7 @@ title                    : "About me"
 title_separator          : "-"
 name                     : &name "Chiara Gini"
 description              : &description "Postdoctoral researcher in microbial genomics, multi-omics, and livestock microbiome science"
-url                      : https://bioinfogini.github.io # update with your actual GitHub username if different
+url                      : "https://bioinfogini.github.io" # update with your actual GitHub username if different
 baseurl                  : ""
 repository               : "bioinfogini/bioinfogini.github.io" # update if different
 
