@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,56 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/Chiara_Gini_CV.pdf" class="btn btn--info">Download CV (PDF)</a>
+
+Professional Experience
+======
+
+* **Postdoctoral Research Scholar** | 10/2024 – Present
+  * North Carolina State University (NCSU), Dept. of Animal Science | Raleigh, NC
+  * Supervisor: Prof. Christian Maltecca
+  * **Focus:** Shotgun metagenomics and metatranscriptomics, multi-omics integration of gut microbiome in sows, and high-dimensional dataset interpretation.
+  * **Tools:** ATLAS, HUMAnN, DIABLO, R, Slurm/HPC clusters.
+
+* **Postdoctoral Fellow** | 04/2024 – 09/2024
+  * National Research Council of Italy (CNR), Water Research Institute | Verbania, Italy
+  * Supervisor: Dr. Gianluca Corno
+  * **Focus:** Shotgun metagenomics of marine microbial communities, biodiversity, and antimicrobial resistance.
+  * **Tools:** KBase, R.
+
+* **Visiting International Research Student (VIRS)** | 09/2023 – 01/2024
+  * University of Guelph, Centre for Genetic Improvement of Livestock | Guelph, Canada
+  * Supervisor: Prof. Ángela Cánovas
+  * **Focus:** Amplicon sequencing and metatranscriptomics analysis.
+  * **Tools:** Qiime 2, VSEARCH, DADA2, CRCBio, R, HPC clusters.
+
+* **Ph.D. Researcher** | 11/2020 – 01/2024
+  * University of Milan, Dept. of Veterinary and Animal Science | Lodi, Italy
+  * Supervisor: Prof. Fabrizio Ceciliani
+  * **Focus:** Amplicon sequencing analysis and bioinformatic pipeline benchmarking.
+  * **Tools:** Qiime 1.9/2, VSEARCH, MICCA, DADA2, R.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Veterinary and Animal Science**, Università degli Studi di Milano, 2024
+* **Advanced Course in Molecular Diagnostic Pathology**, Università degli Studi di Milano, 2022
+* **M.S. in Veterinary Biotechnological Sciences**, Università degli Studi di Milano, 2020 (Score: 100/110)
+* **B.S. in Biotechnology**, Università degli Studi di Milano, 2018 (Score: 90/110)
 
-Work experience
+Teaching & Mentorship
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Invited Lecturer** (2023): “The Animal Microbiome” course, Prof. Filippa Addis.
+* **Graduate Teaching Assistant** (2019/2020): 12 hours of training in Cellular and Molecular Biology (Master’s level).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Selected Congress Presentations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **PAG 33 (2026)**: San Diego, CA. Two oral presentations.
+* **AGBT Ag (2025)**: Orlando, FL. Oral presentation.
+* **ISME19 (2024)**: Cape Town, South Africa. Poster presentation.
+* **PAG 31 (2024)**: San Diego, CA. Oral presentation (*Scherago International Student Travel Grant Awardee*).
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+A detailed list of my peer-reviewed work, including "Funny Abstracts" and descriptions, can be found on my **[Publications Page](/publications/)**.
+
+Latest updates are also available via **[Google Scholar](https://scholar.google.com/citations?user=y32Vsw8AAAAJ&hl=en&oi=ao)**.
+
+---
+*Last updated: April 2026*
