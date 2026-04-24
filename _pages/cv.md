@@ -15,28 +15,34 @@ Professional Experience
 ======
 
 * **Postdoctoral Research Scholar** | 10/2024 – Present
-  * North Carolina State University (NCSU), Dept. of Animal Science | Raleigh, NC
-  * Supervisor: Prof. Christian Maltecca
-  * **Focus:** Shotgun metagenomics and metatranscriptomics, multi-omics integration of gut microbiome in sows, and high-dimensional dataset interpretation.
-  * **Tools:** ATLAS, HUMAnN, DIABLO, R, Slurm/HPC clusters.
+  North Carolina State University (NCSU), Dept. of Animal Science | Raleigh, NC
+  *Supervisor: Prof. Christian Maltecca*
+  * **Analytical & Technical Expertise:** Shotgun metagenomics and metatranscriptomics analysis, including data processing, integration of taxonomic and functional layers (multi-omics), and interpretation of high-dimensional datasets (gut microbiome in sows).
+  * **Tools & Languages:** ATLAS, HUMAnN, DIABLO, R, batch. Usage of HPC clusters (slurm, sbatch).
+
+---
 
 * **Postdoctoral Fellow** | 04/2024 – 09/2024
-  * National Research Council of Italy (CNR), Water Research Institute | Verbania, Italy
-  * Supervisor: Dr. Gianluca Corno
-  * **Focus:** Shotgun metagenomics of marine microbial communities, biodiversity, and antimicrobial resistance.
-  * **Tools:** KBase, R.
+  National Research Council of Italy (CNR), Water Research Institute | Verbania, Italy
+  *Supervisor: Dr. Gianluca Corno*
+  * **Analytical & Technical Expertise:** Shotgun metagenomics analysis of microbial communities from marine environments, focused on analysis of biodiversity and antimicrobial resistance.
+  * **Tools & Languages:** Kbase, R.
+
+---
 
 * **Visiting International Research Student (VIRS)** | 09/2023 – 01/2024
-  * University of Guelph, Centre for Genetic Improvement of Livestock | Guelph, Canada
-  * Supervisor: Prof. Ángela Cánovas
-  * **Focus:** Amplicon sequencing and metatranscriptomics analysis.
-  * **Tools:** Qiime 2, VSEARCH, DADA2, CRCBio, R, HPC clusters.
+  University of Guelph, Dept. of Animal Biosciences | Guelph, Canada
+  *Supervisor: Prof. Ángela Cánovas*
+  * **Analytical & Technical Expertise:** Amplicon sequencing analysis, metatranscriptomics analysis.
+  * **Tools & Languages:** Qiime 1.9/2, VSEARCH, MICCA, DADA2, CRCBio, R.
+
+---
 
 * **Ph.D. Researcher** | 11/2020 – 01/2024
-  * University of Milan, Dept. of Veterinary and Animal Science | Lodi, Italy
-  * Supervisor: Prof. Fabrizio Ceciliani
-  * **Focus:** Amplicon sequencing analysis and bioinformatic pipeline benchmarking.
-  * **Tools:** Qiime 1.9/2, VSEARCH, MICCA, DADA2, R.
+  University of Milan, Dept. of Veterinary and Animal Science (DIVAS) | Lodi, Italy
+  *Supervisor: Prof. Fabrizio Ceciliani*
+  * **Analytical & Technical Expertise:** Amplicon sequencing analysis, bioinformatic pipelines benchmarking, and basic biostatistics.
+  * **Tools & Languages:** Qiime 1.9/2, VSEARCH, MICCA, DADA2, R.
 
 Education
 ======
