@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/CV_Chiara_Gini_May2026.pdf" class="btn btn--info">Take a copy of my Resume!</a>
+<a href="{{ base_path }}/files/CV_Chiara_Gini_May2026.pdf" class="btn btn--success">Take a copy of my Resume!</a>
 
 Professional Experience
 ======
