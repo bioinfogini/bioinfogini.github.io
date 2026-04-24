@@ -22,7 +22,7 @@ repository               : "bioinfogini/bioinfogini.github.io" # update if diffe
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Chiara Gini, Ph.D."
   pronouns         : "she/her"
   bio              : "Postdoctoral researcher in gut microbiome multi-omics at NC State University. Metagenomics | Metatranscriptomics | Livestock genomics"
