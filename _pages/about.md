@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/profile.png" alt="Chiara Gini" style="float: right; margin: 0 0 1em 1.5em; width: 200px; border-radius: 8px;">
-
 Hi, I'm **Chiara** — a postdoctoral researcher in microbial genomics with a passion for understanding how microbial communities shape animal health and production.
 
 I am currently based at the **Department of Animal Science, North Carolina State University (Raleigh, NC)**, where I work in the lab of Prof. Christian Maltecca. My research focuses on the gut microbiome of livestock — particularly lactating sows — using a multi-omics approach that integrates shotgun metagenomics, metatranscriptomics, and metabolomics to uncover how microbial communities respond to physiological and environmental stressors such as heat stress.
