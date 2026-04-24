@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chiara Gini, Ph.D."
-  pronouns         : "she/her"
+  pronouns         : 
   bio              : "Postdoctoral researcher in gut microbiome multi-omics at NC State University. Metagenomics | Metatranscriptomics | Livestock genomics"
   location         : "Raleigh, NC"
   employer         : "NC State University"
@@ -55,7 +55,7 @@ author:
 
   # Social media
   artstation       :
-  bluesky          : "chiaraginibioinfo.bsky.social" # update with your actual Bluesky handle
+  bluesky          : # "chiaraginibioinfo.bsky.social" # update with your actual Bluesky handle
   facebook         :
   flickr           :
   foursquare       :
@@ -64,7 +64,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chiara-gini-eu/?locale=en"
   mastodon         :
   medium           :
   pinterest        :
