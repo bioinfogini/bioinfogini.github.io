@@ -26,14 +26,6 @@ I completed my **Ph.D. in Veterinary and Animal Science** at the University of M
 
 My research has been presented at international conferences including **PAG**, **AGBT Ag**, and **ISME19**, and I have been the recipient of competitive travel awards from Scherago International and the Animal Breeding-RCN.
 
-## Selected Publications
-
-- **Gini C** et al. Data-driven enterosignatures link gut microbiome reorganization to heat stress responses in lactating sows. *Front. Microbiol.* 2026. [doi: 10.3389/fmicb.2026.1797687](https://doi.org/10.3389/fmicb.2026.1797687)
-- Sabatino R†, **Gini C**† et al. Sinking Particles as Repository of Antimicrobial Resistome Diversity in the Sansha Yongle Blue Hole. *Sci Total Environ.* 2026. [doi: 10.1016/j.scitotenv.2026.181585](https://doi.org/10.1016/j.scitotenv.2026.181585)
-- Nehme R†, **Gini C**† et al. The effects of *Thymus capitatus* essential oil topical application on milk quality: a systems biology approach. *Sci Rep.* 2025. [doi: 10.1038/s41598-025-88168-0](https://doi.org/10.1038/s41598-025-88168-0)
-
-*† co-first authors — Full publication list available on [Google Scholar](https://scholar.google.com) and [ORCID](https://orcid.org).*
-
 ## Get in Touch
 
 I am always open to scientific discussions and potential collaborations — feel free to reach out at **chiaraginibioinfo@gmail.com**.
